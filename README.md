@@ -29,4 +29,9 @@ The dataset (`Kenya.csv`) contains annual external debt indicators for Kenya. We
 Make sure you have the following Python libraries installed:
 
 ```bash
-pip install pandas matplotlib statsmodels
+pip install pand!
+
+
+[Screenshot 2025-06-12 002640](https://github.com/user-attachments/assets/e308590f-3381-44be-a52d-54a41c9dd951)
+![Screenshot 2025-06-12 002434](https://github.com/user-attachments/assets/f5f634f6-8df5-4bb0-ba77-ad2e4efeca03)
+as matplotlib statsmodels
